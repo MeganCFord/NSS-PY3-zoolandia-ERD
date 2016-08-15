@@ -2,7 +2,7 @@
 
 ### Author: Megan Ford August 2016
 
-Exercise completed as part of Nashville Software School's Back-end (Python) bootcamp, Milestone 3- Database Driven Applications. A demonstration of skills learned at time of creation. See below for instructions. 
+Exercise completed as part of Nashville Software School's Back-end (Python) bootcamp, Milestone 3- Database Driven Applications. A demonstration of skills learned at time of creation. See below for instructions followed. 
 
 ![Screenshot](zoolandia-erd.jpg)
 
